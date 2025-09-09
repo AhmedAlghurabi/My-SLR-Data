@@ -11,8 +11,10 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 • Demonstrates lab approximations often underpredict field erosion rates.
 
 # Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
+[fig_prisma.pdf](https://github.com/user-attachments/files/22233361/fig_prisma.pdf)
 
 # The literature review study mapping process
+[SLR graphical abstract-updated.pdf](https://github.com/user-attachments/files/22233387/SLR.graphical.abstract-updated.pdf)
 
 # Please consider citing our work, if you use our template or methodology:
 
