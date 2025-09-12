@@ -21,7 +21,8 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 
 
 # The literature review study mapping process
-[SLR graphical abstract-updated.pdf](https://github.com/user-attachments/files/22233387/SLR.graphical.abstract-updated.pdf)
+
+![SLR horizontal graphical abstract](https://github.com/user-attachments/assets/4f4c40cb-3b27-400b-9a5f-8654b2f9ed55)
 
 # Please consider citing our work, if you use our template or methodology:
 
