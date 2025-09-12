@@ -15,6 +15,7 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 • Shows two-way CFD–DEM improves practicality and agreement with tests.
 
 • Demonstrates lab approximations often underpredict field erosion rates.
+
 # The literature review study mapping process
 
 ![SLR horizontal graphical abstract](https://github.com/user-attachments/assets/56c1891a-1e1a-40cb-88a2-817c371bc7d5)
@@ -29,4 +30,5 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 # Please consider citing our work, if you use our template or methodology:
 
 Corresponding author Ahmed Alghurabi @2025
+
 Thank you
