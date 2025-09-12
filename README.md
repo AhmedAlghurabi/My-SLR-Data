@@ -3,11 +3,17 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 
 # Research Highlights
 • Classifies erosion studies: numerical, experimental, and hybrid methods.
+
 • Compares computational cost, mechanistic accuracy, and validation rigor.
+
 • Analyzes particle size, concentration and impact-angle effects.
+
 • Laboratory geometries often underpredict field erosion in pipes/screens.
+
 • Less than 5% of studies incorporate thermal coupling; calls for high-temperature testing.
+
 • Shows two-way CFD–DEM improves practicality and agreement with tests.
+
 • Demonstrates lab approximations often underpredict field erosion rates.
 
 # Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
