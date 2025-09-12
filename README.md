@@ -29,6 +29,6 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 
 # Please consider citing our work, if you use our template or methodology:
 
-Corresponding author Ahmed Alghurabi @2025
+Main author Ahmed Alghurabi @2025
 
 Thank you
