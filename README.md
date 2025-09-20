@@ -32,7 +32,8 @@ The precise prediction of solid particle erosion of industrial flow equipment re
 
 # Please acknowledge our study through citation, if you find our template or methodology useful:
 
-Alghurabi, A., Abduljabbar, A., Maoinser, M. A., Alqushaibi, A., Hagar, H., & Mohyaldinn, M. E. (2025). A systematic review of material erosion prediction techniques: Incorporating model parameters variability and the lack of field-scale representation. Results in Engineering, 20, 107194. https://doi.org/10.1016/j.rineng.2025.107194
+Alghurabi, A., Abduljabbar, A., Maoinser, M. A., Alqushaibi, A., Hagar, H., & Mohyaldinn, M. E. (2025). A systematic review of material erosion prediction techniques: Incorporating model parameters variability and the lack of field-scale representation. Results in Engineering, 28, 107194. https://doi.org/10.1016/j.rineng.2025.107194
+
 
 # LaTeX (BibTeX) Style
 
@@ -40,7 +41,7 @@ Alghurabi, A., Abduljabbar, A., Maoinser, M. A., Alqushaibi, A., Hagar, H., & Mo
   author       = {Alghurabi, Ahmed and Abduljabbar, Abdullah and Maoinser, Mohd Azuwan and Alqushaibi, Alawi and Hagar, Haithm and Mohyaldinn, Mysara Eissa},
   title        = {A systematic review of material erosion prediction techniques: Incorporating model parameters variability and the lack of field-scale representation},
   journal      = {Results in Engineering},
-  volume       = {20},
+  volume       = {28},
   pages        = {107194},
   year         = {2025},
   issn         = {2590-1230},
