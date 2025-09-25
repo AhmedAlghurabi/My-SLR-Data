@@ -38,15 +38,25 @@ Alghurabi, A., Abduljabbar, A., Maoinser, M. A., Alqushaibi, A., Hagar, H., & Mo
 # LaTeX (BibTeX) Style
 
 @article{Alghurabi_SLR_2025,
+
   author       = {Alghurabi, Ahmed and Abduljabbar, Abdullah and Maoinser, Mohd Azuwan and Alqushaibi, Alawi and Hagar, Haithm and Mohyaldinn, Mysara Eissa},
+  
   title        = {A systematic review of material erosion prediction techniques: Incorporating model parameters variability and the lack of field-scale representation},
+  
   journal      = {Results in Engineering},
+  
   volume       = {28},
+  
   pages        = {107194},
+  
   year         = {2025},
+  
   issn         = {2590-1230},
+  
   doi          = {10.1016/j.rineng.2025.107194},
+  
   url          = {https://www.sciencedirect.com/science/article/pii/S2590123025032499}
+
 }
 
 
